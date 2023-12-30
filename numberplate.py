@@ -19,6 +19,6 @@ while True:
         cv2.imwrite("C:\\Users\\ojhaa\\Desktop\\NUMBER-PLATE\\Numberplate"+str(count)+".jpg",imgRoi)
         cv2.rectangle(img,(0,200),(640,300),(255,0,0),cv2.FILLED)
         cv2.putText(img,"Scan Saved",(15,265),cv2.FONT_HERSHEY_COMPLEX,2,(0,255,255),2)
-        cv2.imshow("Result",img)
+        cv2.imshow("Result",imgRoi)
         cv2.waitKey(500)
         count+=1
