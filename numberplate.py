@@ -1,4 +1,5 @@
 import cv2
+
 platecascade = cv2.CascadeClassifier("C:\\Users\\ojhaa\\Desktop\\NUMBER-PLATE\\Numberplate.xml")
 minArea = 500 
 cap = cv2.VideoCapture(0)
