@@ -4,3 +4,4 @@ easyocr
 imutils
 matplotlib
 numpy
+ultralytics
