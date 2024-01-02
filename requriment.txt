@@ -1,2 +1,6 @@
 opencv-python
 torch
+easyocr
+imutils
+matplotlib
+numpy
