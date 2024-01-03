@@ -1,7 +1,4 @@
 opencv-python
-torch
 easyocr
-imutils
-matplotlib
-numpy
-ultralytics
+pandas
+openpyxl
