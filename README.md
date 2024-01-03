@@ -4,7 +4,9 @@
 
  Clone the repository in your device
   
- ``` git clone https://github.com/Avanish08/Number-Plate-dect.git ```
+ ```bash 
+ git clone https://github.com/Avanish08/Number-Plate-dect.git
+```
  
 
 # Models 
